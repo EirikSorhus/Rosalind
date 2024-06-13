@@ -1,2 +1,3 @@
 # Rosalind
-Solving rosalind problems
+Solving rosalind problems.
+Rosalind is a platform for learning bioinformatics through problem solving.
