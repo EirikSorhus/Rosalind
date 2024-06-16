@@ -1,0 +1,5 @@
+def sum_int(a,b): # Function to add all integres between and included a and b
+  while a <= b:
+    sum += a
+    a += 1
+  retun sum
